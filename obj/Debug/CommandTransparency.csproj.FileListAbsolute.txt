@@ -1,0 +1,15 @@
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\CommandTransparency.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\CommandTransparency.pdb
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\Assembly-CSharp.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\Rocket.API.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\Rocket.Core.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\Rocket.Unturned.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\SDG.NetTransport.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\bin\Debug\UnityEngine.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\obj\Debug\CommandTransparency.csproj.AssemblyReference.cache
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\obj\Debug\CommandTransparency.csproj.CoreCompileInputs.cache
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\obj\Debug\CommandTransparency.csproj.CopyComplete
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\obj\Debug\CommandTransparency.dll
+C:\Users\pavol\source\repos\Unturned Plugins\CommandTransparency\CommandTransparency\obj\Debug\CommandTransparency.pdb
