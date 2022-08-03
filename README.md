@@ -1,5 +1,5 @@
 # CommandTransparency
-A plugin that announces commands executed by your staff, so the community knows if any abuse is happening.
+A plugin that announces commands executed by your staff. Useful for servers to minimise abuse.
 
 Permissions and commands are at the bottom.
 
