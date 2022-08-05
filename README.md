@@ -64,5 +64,5 @@ If you don't want the plugin to make the /TCT command transprarent, add it to ig
   <td>CommandTransparency.TransparentCommands</td>
   <td>Anyone with this permission will have their commands transparent. Unless the plugin is toggled or the command is ignored.</td>
   </tr>
-  <table>
+  </table>
 Note: Blue hammers automatically have the CommandTransparency.TransparentCommands permission.
